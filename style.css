@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: goldenrod;
+    font-family: 'Courgette', cursive;
+}
+
+div {
+    width: auto;
+    height: 100vh;
+    background-image: url("rosar.png");
+    background-size: cover;
+}
